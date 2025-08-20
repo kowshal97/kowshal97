@@ -61,7 +61,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add your profile link)*  
+- 💼 [LinkedIn](https://www.linkedin.com/) *(https://www.linkedin.com/in/kowshal1997/)*  
 - 📧 Email: *(Kowzshal@gmail.com)*  
 - 🌐 GitHub: [github.com/kowshal97](https://github.com/kowshal97)  
 
