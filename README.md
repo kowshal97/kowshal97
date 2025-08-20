@@ -42,7 +42,7 @@
 - [Online Retail Store Database](https://github.com/kowshal97/Online-Retail-Store-database)  
   *Database design, SQL queries, and schema for an e-commerce platform.*  
 
-- [Database Design Project Portfolio](https://github.com/kowshal97/Database-Projects-Portfolio)  
+- [Database Design Project Portfolio](https://github.com/kowshal97/Database-design-project-)  
   *ER modeling, normalization, and implementation labs.*  
 
 ---
