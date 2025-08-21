@@ -37,7 +37,7 @@
   *It demonstrates how to design and deploy a secure, highly available 3-tier architecture on AWS with auto scaling and database recovery.*
 
 - [Multi-Cloud Web Application Deployment](https://github.com/kowshal97/Multi-Cloud-Web-Server-Deployment)
-- This project demonstrates the deployment of a highly available and scalable web application across AWS, GCP, and Azure.
+ *This project demonstrates the deployment of a highly available and scalable web application across AWS, GCP, and Azure.*
 
 ---
 
