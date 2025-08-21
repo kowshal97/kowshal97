@@ -30,7 +30,7 @@
 - [Oshawa Public Library Cloud Architecture](https://github.com/kowshal97/Oshawa-Public-Library-Cloud-Architecture)  
   *Microservice-based cloud design with AWS ECS, RDS, S3, CloudWatch, and Auto Scaling.*  
 
-- [Cloud Project Portfolio](https://github.com/kowshal97/cloud-project-PostgreSQL-Connection)  
+- [cloud-project-PostgreSQL-Connection](https://github.com/kowshal97/cloud-project-PostgreSQL-Connection)  
   *Collection of cloud assignments and labs showcasing AWS, GCP, and Azure deployments.*  
 
 ---
