@@ -34,8 +34,7 @@
   *Collection of cloud assignments and labs showcasing AWS, GCP, and Azure deployments.*
 
 - [AWS Cloud Deployment](https://github.com/kowshal97/AWS-Cloud-Deployment)
-
-  *It demonstrates how to design and deploy a secure, highly available 3-tier architecture on AWS with auto scaling and database recovery.*
+*It demonstrates how to design and deploy a secure, highly available 3-tier architecture on AWS with auto scaling and database recovery.*
 
 ---
 
