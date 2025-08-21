@@ -31,7 +31,10 @@
   *Microservice-based cloud design with AWS ECS, RDS, S3, CloudWatch, and Auto Scaling.*  
 
 - [cloud-project-PostgreSQL-Connection](https://github.com/kowshal97/cloud-project-PostgreSQL-Connection)  
-  *Collection of cloud assignments and labs showcasing AWS, GCP, and Azure deployments.*  
+  *Collection of cloud assignments and labs showcasing AWS, GCP, and Azure deployments.*
+
+- [AWS Cloud Deployment](https://github.com/kowshal97/AWS-Cloud-Deployment)
+- *It demonstrates how to design and deploy a secure, highly available 3-tier architecture on AWS with auto scaling and database recovery.*
 
 ---
 
