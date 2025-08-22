@@ -54,8 +54,8 @@
 ---
 
 ### 🔹 **Automation Testing Projects**
-- [Selenium Automation Suite](#) *(Still working on these projects)*  
-  *Test cases for login, registration, file uploads, and form submissions using Selenium + Python.*  
+- [Selenium Automation Suite](https://github.com/kowshal97/Automation-Project-New-User-Signup) 
+  *This project automates the new user registration workflow on AutomationExercise.com using Selenium WebDriver (Python).*  
 
 - [Advanced Selenium Testing](#) *(Still working on these project)*  
   *Automation for dynamic elements, waits, and CI/CD integration with PyTest.*  
