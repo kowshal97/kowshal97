@@ -20,7 +20,7 @@
 - 🗄️ **Databases**: PostgreSQL | DynamoDB | MongoDB | MySQL  
 - 🔍 **Testing & QA**: Selenium | Manual Testing | PyTest | Automation Scripts  
 - 💻 **Programming**: Python | SQL | Bash  
-- 📊 **Other Tools**: GitHub | pgAdmin | Draw.io | Power BI  | JIRA | SIM | ASANA | TESTSUITE | QUIP
+- 📊 **Other Tools**: GitHub | pgAdmin | Draw.io | Power BI  | JIRA | SIM | ASANA | TESTRAIL | QUIP
 - ⚙️ **Methodologies & Processes**: Agile | STLC 
 
 ---
