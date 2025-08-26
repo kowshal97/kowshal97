@@ -58,7 +58,7 @@
 - [Selenium Automation Suite](https://github.com/kowshal97/Automation-Project-New-User-Signup) 
   *This project automates the new user registration workflow on AutomationExercise.com using Selenium WebDriver (Python).*  
 
-- [API Automation Framework](#)(https://github.com/kowshal97/API-Automation-Framework)
+- [API Automation Framework](https://github.com/kowshal97/API-Automation-Framework)
   *A lightweight API Automation Framework built with Python, Pytest, and Requests. It validates REST APIs with CRUD operations, uses data-driven testing from JSON, and generates detailed HTML reports. Designed for scalability, reusability, and CI/CD integration..*  
 
 
