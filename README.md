@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 - ☁️ **Cloud**: AWS | GCP | Azure
-- 🗄️ **Databases**: PostgreSQL | DynamoDB | MongoDB | MySQL
+- 🗄️ **Databases**: PostgreSQL(pgAdmin) | DynamoDB | MongoDB | MySQL
 - 🔍 **Testing & QA**: Selenium | Manual Testing | PyTest | API Testing | Requests | Postman | Automation Scripts | JSON
 - 💻 **Programming**: Python | SQL | Bash
 - 📊 **Other Tools**: GitHub | pgAdmin | Draw.io | Power BI | JIRA | Asana | TestRail | Quip
