@@ -57,6 +57,10 @@
 ---
 
 ### 🔹 **Automation Testing Projects**
+
+- [python-playwright-test-framework] (https://github.com/kowshal97/python-playwright-test-framework)
+  *A modular UI automation framework built with Playwright and Pytest for cross-browser testing, HTML reporting, and CI/CD integration using GitHub Actions.*
+
 - [Selenium Automation Suite](https://github.com/kowshal97/Automation-Project-New-User-Signup) 
   *This project automates the new user registration workflow on AutomationExercise.com using Selenium WebDriver (Python).*  
 
